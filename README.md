@@ -65,7 +65,5 @@ gantt
 * BU21CSEN0100107 - Dinesh
 * BU21CSEN0300211 - A.Saatvika
 
-## Project Supervisor Signature
-
-Project Supervisor Name: _____________________  
-Date: _____________________
+##Requirements
+###low level Requiremnets:
